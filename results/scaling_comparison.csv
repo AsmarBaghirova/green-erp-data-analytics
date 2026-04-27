@@ -1,7 +1,7 @@
-Scaler,Model,MSE,RMSE,MAE,R2
-StandardScaler,Linear Regression,1.3376,1.1566,0.7303,0.9979
-StandardScaler,Random Forest,0.0187,0.1366,0.0608,1.0
-StandardScaler,XGBoost,0.0847,0.291,0.1081,0.9999
-MinMaxScaler,Linear Regression,1.3376,1.1566,0.7303,0.9979
-MinMaxScaler,Random Forest,0.0187,0.1366,0.0608,1.0
-MinMaxScaler,XGBoost,0.0847,0.291,0.1081,0.9999
+Dataset,Model,MSE,RMSE,MAE,R2,Scaler
+StandardScaler,Linear Regression,1.3376,1.1566,0.7303,0.9979,StandardScaler
+StandardScaler,Random Forest,0.0187,0.1366,0.0608,1.0,StandardScaler
+StandardScaler,XGBoost,0.0847,0.291,0.1081,0.9999,StandardScaler
+MinMaxScaler,Linear Regression,1.3376,1.1566,0.7303,0.9979,MinMaxScaler
+MinMaxScaler,Random Forest,0.0187,0.1366,0.0608,1.0,MinMaxScaler
+MinMaxScaler,XGBoost,0.0847,0.291,0.1081,0.9999,MinMaxScaler

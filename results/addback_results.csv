@@ -1,0 +1,8 @@
+Feature Added,MSE,RMSE,R2,MSE Change
+None (baseline 10),0.0187,0.1366,1.0,0.0
+Current,0.0182,0.1348,1.0,-0.0005
+Frequency,0.0182,0.135,1.0,-0.0005
+Active_Energy,0.017,0.1304,1.0,-0.0017
+GPU_Consumption,0.0183,0.1354,1.0,-0.0004
+GPU_Power_Consumption,0.0186,0.1364,1.0,-0.0001
+GPU_Temperature,0.0186,0.1365,1.0,-0.0001
